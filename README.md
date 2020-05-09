@@ -10,6 +10,7 @@ Using wfdb (Waveform Database) to manipulate with waveform-type data Python
 
 ---
 # Application
+The elaboration of results obtained can be read from `Detection_of_Congestive_Heart_Failure_using_ECG.ipynb` file
 
 # 1) Executive Summary
 **Goal:**<br></br>
@@ -21,7 +22,8 @@ https://www.sciencedirect.com/science/article/pii/S1746809419301776#bib0255
 **Motivation**<br></br>
 Congestive Heart Failure (CHF) or often referred to simply as “heart failure,” as fluid builds up around the heart and causes it to pump inefficiently. CHF is an important concern for its high prevalence, high mortality rates, and sustained healthcare cost.
 
-## 2.1 Abstract
+# 2) Study
+##  2.1 Abstract
 Replicating a scientific paper has several benefits, such as validation and the advancement of the particular field's community knowledge for data analysis which may shape the industry.
 
 ## 2.2 Data
